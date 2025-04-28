@@ -10,3 +10,16 @@ VERSION or DATE: 16 de Abril de 2025
 HOW TO START THIS PROJECT: -
 AUTHORS: Intro a los Algoritmos UNRC 2025
 USER INSTRUCTIONS: -
+-------------------------------------------------------------------------
+Este es el proyecto README file. Aquí debería describir su proyecto.
+Dígale al lector (alguien que no sabe nada de este proyecto)
+todo lo que necesitan saber. Por lo general, las observaciones deben incluir al menos:
+----------------------------------------------------------------------
+
+TITULO DEL PROYECTO: Estación Meteorológica.
+PROPUESTA DE PROYECTO: Proyecto simple con ejemplos de uso de listas.
+VERSION o FECHA: 16 de Abril de 2025
+Cómo comenzar este PROYECTO: -
+TE RECOMENDAMOS: Presentación a los Algoritmos UNRC 2025
+INSTRUCCIONES del USUARIO:
+--------------------------------------------------------------------
